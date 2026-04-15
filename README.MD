@@ -1,4 +1,4 @@
-# Gemini RAG System
+# Code Generator RAG System
 
 A modular Retrieval-Augmented Generation (RAG) system built with LangChain, FAISS, and Google Gemini.
 
